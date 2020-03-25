@@ -1,0 +1,25 @@
+Instalar o ChocolateY
+Instalar o Node via CMD (Package)
+Instalar o VSCode
+
+Criar pasta para criar o projeto (Backend por exemplo)
+Abrir CMD na pasta criada e executar esse comando
+npm init -y
+
+Feito isso, irá criar um arquivo chamado package.json
+
+Abrir essa pasta no VSCode
+
+
+Abrir terminal do VSCode e instalar o expess para dar um Startup na aplicação
+npm install express
+
+
+Apos fazer o hello world no backend do projeto, ir ao CMD, e ir a pasta do projeto (Anterior a pasta do backend) pelo CMD
+E executar o comando
+npx create-react-app frontend
+
+Abrir VSCODE
+Se executar o comando
+npm start 
+Sera iniciado o REACT no navegador
